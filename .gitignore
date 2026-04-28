@@ -1,0 +1,30 @@
+# JDK and Maven binaries
+jdk.zip
+jdk-17.0.2/
+maven.zip
+apache-maven-3.9.6/
+
+# Node modules
+node_modules/
+
+# Spring backend build output
+spring-backend/target/
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
+npm-debug.log*
+
+# Git LFS
+.gitattributes
